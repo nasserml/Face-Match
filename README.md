@@ -51,6 +51,3 @@ The project repository has the following structure:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
-
-In this version, the links to Streamlit and `http://localhost:8501` are clickable and will direct the reader to the respective webpages.
